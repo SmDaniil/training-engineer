@@ -8,6 +8,6 @@
 - [ ] Step3 (Week 5-9): k8s troubleshooting + Helm chart
 - [ ] Step4 (Week 10-14): Prometheus + alerts + Loki
 - [ ] Step5 (Week 15-19): Postgres HA + OpenTofu
-- [ ] Step6 (Week 20-24): Python-scipts
+- [ ] Step6 (Week 20-24): Python-scripts
 
 Лаба: 2x Ubuntu 22/24/26
