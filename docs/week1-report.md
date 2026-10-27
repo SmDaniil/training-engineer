@@ -8,8 +8,9 @@
 - [x] Доступ с ноды `control` на ноду `target` также реализована по ssh-ключу 
 
 ## Ansible start
-- [ ] Установить ansible на ноду `control`
-- [ ] Успешный выхлоп ping через ansible
+- [x] Установить ansible на ноду `control`
+- [x] Успешный выхлоп ping через ansible
+- [x] Успешный запуск base-playbook
 
 # Step2
 ...

@@ -1,0 +1,11 @@
+- name: base check
+  hosts: lab
+  become: true
+  tasks:
+    - name: update apt cache
+      apt:
+        update_cache: yes
+    - name: install htop curl
+      apt:
+        name: [htop, curl, net-tools]
+        state: present
